@@ -7,6 +7,8 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index.m3u8" group-title="All Channels" , MYX Philippines
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="All Channels" , Cartoon Network Southeast Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
