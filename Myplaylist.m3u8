@@ -2,6 +2,15 @@
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="All Channels" , TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+
+#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="All Channels" , Cartoon Network Southeast Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="All Channels" , DZRHNewsTV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
