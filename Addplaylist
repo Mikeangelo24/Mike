@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax.jp" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Animation" , Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="Fox.ru" tvg-name="Fox.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Movies" , Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Anime" , Anime TV Not24/7
