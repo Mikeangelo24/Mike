@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Fox.ru" tvg-name="Fox.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Movies" , Fox
+https://stream01.vnet.am/Fox/mono.m3u8
