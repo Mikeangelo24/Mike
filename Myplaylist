@@ -3,6 +3,7 @@
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PH A2Z http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PH TFC http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index.m3u8" group-title="All Channels" , MYX Philippines
@@ -17,6 +18,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PH Cinemax http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16704
 #EXTINF:-1 tvg-id="28" tvg-name="28" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="All Channels" , CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax.jp" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Animation" , Animax
