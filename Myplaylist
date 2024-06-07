@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="All Channels" , TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2023/11/Kapuso-Stream-1.jpg" group-title="All Channels" , GTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717706640/ei/MMthZqncEaKs7OsPu42mCA/ip/152.32.104.192/id/Qiex4HNHkuw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9fyuS5SJfvvyIgf21kZM87B9jTOtoaDP5uItFT6shEh8uG6rnayUUOJW1adk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD8xvSwsSI5kpH43vJMiZ1gf_J4vWjdldDniQJk6gZnkCIQD72ebstPR8D8n6piL2IkJwspz4-Q9uWoPIxOGBS6EsuA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", GMA News TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 
@@ -9,8 +11,8 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", GMA LIFE 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
-#EXTINF:-1 tvg-id="kapamilya.ph" tvg-name="kapamilya.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , KAPAMILYA PH
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717705602/ei/IsdhZuEo05XV3w_1kbWQBA/ip/152.32.104.192/id/aooIhjyhBw8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9fw1IwZaXqKDFIaC1_jyIaXywATLBiuABOGvDR4xQKboVBN9cQgaOdLNVt2Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMsBIq30vihN25bzrDqXajv6jF2snQsV7Kui4tQqaEqhAiBOU0oSbe9vrNmboJPzpTykIdlLk00HlxyT9oTLM_vYyQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717740209/ei/UU5iZtX8Ho7R7OsP6qS0uAk/ip/152.32.104.192/id/GE8XOcojwTo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103730/txs/51103729%2C51103730%2C51113346/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9fxxNFrHA5Sl2t8isFWSbYt-CIw7OfkzjPMdM6ATgZRdPXULWhRI40LVbOxg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAK0CQHHYVqecaFsLRjnYN4VKwgg7kXMSDUWcgytDIf5VAiEAw-niONyG1LWM4nw3HZovLMOEjlrSappy14XpXub9-pY%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", A2Z PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", TFC PH
