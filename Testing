@@ -1,1 +1,106 @@
-
+#EXTM3U 
+#EXTINF:-1 tvg-id="KAPATID TV5 " tvg-logo="https://en.wikipedia.org/wiki/Kapatid_Channel#/media/File:Kapatidtv5_logo.jpg" group-title="GENERAL",KAPATID TV5 
+https://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+#EXTINF:-1 tvg-id="TELERADYO SERBISYO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/TeleRadyo_Serbisyo_logo.svg" group-title="RADYO",TELERADYO SERBISYO 
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-id="INC TV HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png" group-title="GENERAL"INC TV HD 
+https://cocphil.akamaized.net\hls\live\2042846\inctv\playlist.m3u8 
+#EXTINF:-1 tvg-id="VIVA CINEMA"tvg-logo="https://en.wikipedia.org/wiki/Viva_Cinema#/media/File:Viva_TV_logo.jpg" group-title=""MOVIES",VIVA CINEMA 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684 
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",Cinema One (1080p) 
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8 
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="NEWS",DZRH News TV (1080p) [Not 24/7] 
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8 
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="MUSIC",MYX Philippines (720p) 
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NEWS",Super Radyo DZBB (720p) [Not 24/7] 
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-id="TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="GENERAL;NEWS', TV 5 (720p / 1080p) 
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8 
+#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO! 
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8 
+#EXTINF:-1 tvg-id="K-Movies" tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="MOVIES", K-MOVIES 
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="ALL TV | STARTELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="GENERAL", ALL TV | STARTELEVISION 
+https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX (JP | No Subtitle) 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15 
+#EXTINF:-1 tvg-id="GMA LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="GENERAL",GMA LIFE 
+https://bit.ly/44MSmz6
+#EXTINF:-1 tvg-id="GMA NEWS" tvg-logo="https://seeklogo.com/images/G/gma-news-tv-logo-3794BEFE06-seeklogo.com.png" group-title="GENERAL",GMA NEWS 
+https://bit.ly/4bu7gwD
+#EXTINF:-1 tvg-id="GMA PINOY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="GENERAL",GMA PINOY 
+https://bit.ly/3yqN4x7
+#EXTINF:-1 tvg-id="ONE NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="NEWS",One News
+https://bit.ly/3V39Bce
+#EXTINF:-1 tvg-id="ONE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="SPORTS",One Sports 
+https://bit.ly/4dIklUF 
+#EXTINF:-1 tvg-id="ONE SPORTS+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="SPORTS",One Sports+ 
+https://tinyurl.com/SPORTplu 
+#EXTINF:-1 tvg-id="PBA RUSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="SPORTS",PBA RUSH 
+https://bit.ly/3wHOJxE 
+#EXTINF:-1 tvg-id="PBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="MOVIES",PBO 
+https://bit.ly/44LFPvQ
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="GENERAL",SARI - SARI
+https://tinyurl.com/5bcc4nrw 
+#EXTINF:-1 tvg-id="SUPER RADYO DZBB (AUDIO STREAM)" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/63288.v7.png" group-title="NEWS",Super Radyo DZBB 
+https://tinyurl.com/RadyoDZBB 
+#EXTINF:-1 tvg-id="TFC" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="GENERAL",TFC 
+https://bit.ly/3WLqRDR #EXTM3U 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GENERAL", A2Z 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 
+#EXTINF:-1 group-title="GENERAL", ABS-CBN KAPAMILYA 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715512425/ei/CVBAZo3mEMTy4-EPvfu6sAQ/ip/2001%3A4451%3A4581%3Aa100%3A21b9%3A436a%3Adc82%3A50dd/id/YycBrs0oZTU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/ph/siu/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Csiu%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgP0DSqk-dKLXa7TnJBVP4U-Zr5ufwrgCoqcwxypS6VjACIQDOwxYgxvPeOWS-vA54dVSzaxQ1dS0uImVorfgggmtNlw%3D%3D/file/index.m3u8 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GENERAL", ANIMAX 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16734
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16803
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOONS", Cartoon Network 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16731 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVE MOVIES", Cinema One
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16728
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ALTERNATIVE MOVIES", Cinemo 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16727
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", GMA LIFE 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", GMA GTV http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", GMA Pinoy TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", IBC13 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16716 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ediwow", MPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16762 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", MYX 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16707 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", TV5 HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16777 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", ONE SPORTS 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16722
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", ONE SPORTS PLUS 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16768 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GENERAL", One 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16705
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", One News HD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16742 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", PBA RUSH 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16743
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", PBA RUSH FHD 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16782
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GENERAL", PTV 4 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16700 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", PBO 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16701
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", TFC 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16696
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOCAL ALTERNATIVE", DZMM Teleradyo 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16738
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RADYO", DZRH TV 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16721 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", VIVA CINEMA 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GENERAL", RPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s32281_ll_h3_ad.png" group-title="SPORTS", NBA TV FHD 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7114 
+#EXTINF:-1, tvg-logo="http://fanc.tmsimg.com/assets/s32281_ll_h3_ad.png" group-title="SPORTS", NBA TV HD 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161 
+#EXTINF:-1, NBA TV FHD
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7114
