@@ -1,70 +1,27 @@
-#EXTM3U 
-#EXTINF:-1,|USA|Yes Network 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1377.ts 
-#EXTINF:-1,|USA|WWE Network HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1382.ts 
-#EXTINF:-1,|USA|Willow Cricket HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1383.ts 
-#EXTINF:-1,|USA|WEATHER CHANNEL 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1384.ts 
-#EXTINF:-1,|USA|WE TV FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1466.ts
-#EXTINF:-1,|USA|VH1 HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1386.ts 
-#EXTINF:-1,|USA|VH 1 FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1448.ts 
-#EXTINF:-1,|USA|Velocity FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1449.ts 
-#EXTINF:-1,|USA|USA Network
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1387.ts
-#EXTINF:-1,|USA|TNT
-HD http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1389.ts
-#EXTINF:-1,|USA|TLC HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1390.ts 
-#EXTINF:-1,|USA|TLC FHD
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1450.ts 
-#EXTINF:-1,|USA|Tennis Channel HD
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1371.ts 
-#EXTINF:-1,|USA|Tennis Channel FHD
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1451.ts
-#EXTINF:-1,|USA|TBS HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1391.ts 
-#EXTINF:-1,|USA|Syfy HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1392.ts 
-#EXTINF:-1,|USA|SUNDANCETV FHD
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1472.ts
-#EXTINF:-1,|USA|Starz HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1393.ts 
-#EXTINF:-1,|USA|Starz Encore West FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1452.ts
-#EXTINF:-1,|USA|Starz Cinema HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1394.ts 
-#EXTINF:-1,|USA|STADIUM 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1388.ts 
-#EXTINF:-1,|USA|SPORTSNET N.Y HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1396.ts 
-#EXTINF:-1,|USA|Sports Net World HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1424.ts 
-#EXTINF:-1,|USA|Sports Net Ontario HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1395.ts 
-#EXTINF:-1,|USA|Sports Net One HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1425.ts
-#EXTINF:-1,|USA|Showtime FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1453.ts 
-#EXTINF:-1,|USA|Showtime
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1397.ts
-#EXTINF:-1,|USA|SEC Network
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1374.ts 
-#EXTINF:-1,|USA|Paramount Network HD http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1398.ts
-#EXTINF:-1,|USA|Disney Channel FHD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1474.ts
-#EXTINF:-1,|USA| NEW ENGLAND SPORT NETWORK
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/393.ts 
-#EXTINF:-1,|USA| NBA
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/397.ts
-#EXTINF:-1,|USA| MLB HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/396.ts 
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/383.ts 
-#EXTINF:-1,|USA| FOX SPORT 1HD 
-http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/382.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVAsPistasdeBlue.us",Pluto TV As Pistas de Blue (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br",Pluto TV Cine Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br",Pluto TV Cine Família (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="NickClassico.br",Pluto TV Classic Nick (Brazil) (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-id="FilmesSuspense.br",Pluto TV Filmes Suspense (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br",Pluto TV Investigação (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MTV.br",Pluto TV MTV (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVNatureza.br",Pluto TV Natureza (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="NickJrClub.br",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="NickJrClub.br",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVPortadosFundos.us",Pluto TV Porta dos Fundos (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVRetro.br",Pluto TV Retrô (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.br",Pluto TV Vida Real (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
