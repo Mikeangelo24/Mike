@@ -21,12 +21,16 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="All Channels" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="All Channels" , CLTV 36 PH
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", NBA TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PBA RUSH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16782
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index.m3u8" group-title="All Channels" , MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="All Channels" , Cartoon Network Southeast Asia
