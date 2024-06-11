@@ -58,3 +58,13 @@ http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1374.ts
 #EXTINF:-1,|USA|Paramount Network HD http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1398.ts
 #EXTINF:-1,|USA|Disney Channel FHD 
 http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1474.ts
+#EXTINF:-1,|USA| NEW ENGLAND SPORT NETWORK
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/393.ts 
+#EXTINF:-1,|USA| NBA
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/397.ts
+#EXTINF:-1,|USA| MLB HD 
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/396.ts 
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/383.ts 
+#EXTINF:-1,|USA| FOX SPORT 1HD 
+http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/382.ts
