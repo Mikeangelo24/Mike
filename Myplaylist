@@ -15,7 +15,7 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718192741/ei/BTZpZt_0AoSs1d8Pn7KnqA4/ip/152.32.104.192/id/ymjiAV3iEXo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6qKYb3OImaIcwlXQTD62XvcdQ02CyH8w7EG-1WwvFyTNhXSHDNNjV66sZw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMRaycaSWPeo3ibSnkX32n8mRdXtJgYdj_SAyo7ZF8MrAiB4gVvj6rTl3dvoDAk-nd7xBCaglLK1vCUC-ncyG4U-hQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", A2Z PH
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/view/bmhnyte4zmorznh/mikebg.png/file" group-title="Philippines TV", A2Z PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", TFC PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
