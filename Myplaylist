@@ -23,6 +23,8 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="All Channels" , CLTV 36 PH
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Philippines TV", NET 25
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", NBA TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PBA RUSH 
