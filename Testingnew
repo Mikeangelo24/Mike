@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",VH1
+http://170.254.18.106/VH1/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="General",TVS Television Network (480p)
+https://bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sport",TVS Sports (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Classic",TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/A4yWhQw.png" group-title="Movies",TVS Film Noir Network (720p)
+https://bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/N9nQpnP.png" group-title="Classic",TVS Mainstreet (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TVS Flashback Network (360p)
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops (720p)
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/OR9APjb.png" group-title="Movies",TVS Drive In Movie (360p)
+https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p)
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="Classic",TVS Cipher Network (360p)
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="Sports",TVS Boxing (360p)
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News",Newsmax (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0xW69iu.png" group-title="News",OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/A4gqEmG.png" group-title="News",Payvand TV (720p) [Not 24/7]
+https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="General",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/5QQy3aW.png" group-title="General",Mad Dog and Merrill (540p) [Not 24/7]
+https://bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="Undefined",Mega TV (1080p)
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
+http://170.254.18.106/MTV/index.m3u8
+#EXTINF:0 tvg-country="SG" tvg-logo="" group-title="Undefined",Cartoonito Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
+https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV Arequipa (720p) [Not 24/7]
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/QuelSsc.png" group-title="Undefined",TV 8.5 (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/MgEN1F8.png" group-title="General",BNB Digital (480p) [Not 24/7]
+https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Classic",Classic Cinema (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Music",CMC-USA (California Music Channel) (720p)
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 tvg-country="PA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Undefined",Star Channel Central America
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="Undefined",Chef Roc Show (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Comedy",Camera Smile (480p)
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="Undefined",Celebrity Scene TV (720p)
+https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Undefined",Chef Champion (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",FrankenPlus (1080p)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Undefined;MEXICO",HBO Signature Latin America
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Undefined;MEXICO",HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="News",Relevant TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/RhkbhZD.png" group-title="News",APN (576p)
+https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Undefined",BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="Undefined",Bravo
+http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="Undefined",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Movies;MEXICO",Cinemax Latin America
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Undefined",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:0 tvg-country="CL;CO;MX" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined;MEXICO",Golden TV (240p) [Not 24/7]
+https://bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Undefined;MEXICO",HBO 2 Latin America
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Family;MEXICO",HBO Family Latin America
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:0 tvg-country="BR;CL;CO;MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Undefined;MEXICO",HBO Plus Latin America
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/ki1ktWg.png" group-title="Documentary",History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Undefined",Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Undefined",PSJ TV (1080p)
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="News",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="FRANCE",RMC Découverte (1080p)
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/76XWq08.png" group-title="Undefined",TV 3 (720p)
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Legislative",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="Movies",American Horrors (480p)
+https://amhorstream.com/playlist/amhor/playlist.m3u8
+#EXTINF:0 tvg-country="BB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:0 tvg-country="BB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="Undefined",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/dum5KJj.png" group-title="Entertainment",IskelmäTV (720p)
+https://mobiili.livetv.fi/memfs/f1819b9e-90da-408a-9a71-5c54e0cb5c33.m3u8
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/Vba4jUk.png" group-title="General",Onni TV (720p)
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",Alawla TV (540p)
+https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
+#EXTINF:0 tvg-country="AF;AU;ID" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="CHINA",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="News",Habertürk TV (1080p)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://www.tvchinese.net/uploads/tv/liangshantv.jpg" group-title="CHINA",Liangshan TV [Not 24/7]
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/gHwCFb0.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/ZJSWusT.png" group-title="ITALY",San Marino RTV (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/c9LiTz0.png" group-title="General",BMC-HD TV
+https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Legislative",DerryTV 17
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Undefined",DerryTV 23
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/4t5JQLY.png" group-title="Movies",Hero (Finland) (720p)
+https://live-fi.tvkaista.net/hero/live.m3u8
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/PkMgY0K.png" group-title="Undefined",Jim (720p)
+https://live-fi.tvkaista.net/jim/live.m3u8
+#EXTINF:0 tvg-country="FI" tvg-logo="https://i.imgur.com/k6NsXBj.png" group-title="Undefined",Liv (720p)
+https://live-fi.tvkaista.net/liv/live.m3u8
+#EXTINF:0 tvg-country="MY;TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Undefined",Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u
+#EXTINF:0 tvg-country="HK;MY;PH;TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment",tvN (台湾版) (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
