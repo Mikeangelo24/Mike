@@ -1,0 +1,23 @@
+import requests
+from bs4 import BeautifulSoup
+
+# Parse the M3U8 playlist
+playlist = []
+for line in m3u8_content.split('\n'):
+    if line.startswith('#EXTINF'):
+        info = line.split(',', 1)[1]
+        tvg_country = info.split('tvg-country="')[1].split('"')[0]
+        tvg_logo = info.split('tvg-logo="')[1].split('"')[0]
+        group_title = info.split('group-title="')[1].split('"')[0]
+    elif line.startswith('http'):
+        url = line
+        playlist.append({
+            'tvg_country': tvg_country,
+            'tvg_logo': tvg_logo,
+            'group_title': group_title,
+            'url': url
+        })
+
+# Print the playlist
+for item in playlist:
+    print(f"Country: {item['tvg_country']}, Logo: {item['tvg_logo']}, Group: {item['group_title']}, URL: {item['url']}")
