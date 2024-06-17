@@ -27,6 +27,10 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", NBA TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", NBA TV test1
+http://1tv41.icu:8080/n9UaTQ/546727/22995
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", NBA TV test2
+http://1tv41.icu:8080/n9UaTQ/546727/20073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", PBA RUSH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16782
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
