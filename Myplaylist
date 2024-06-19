@@ -112,6 +112,10 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="All Channels" , Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network Russia (576p)
+http://stream01.vnet.am/Kinosemya/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Jr. (720p)
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Classic",Retrô Cartoon (480p)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
@@ -282,8 +286,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-
-#EXTM3U
 #EXTINF:-1 tvg-id="PlutoTVAsPistasdeBlue.us",Pluto TV As Pistas de Blue (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.br",Pluto TV Cine Drama (720p)
@@ -345,3 +347,46 @@ https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Canada", Canal de l'Assemblee
 https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="Religious",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="" group-title="Undefined",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PH" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Undefined",INC TV (720p) (720p) [Geo-blocked]
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK;MY;PH;TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment",tvN (台湾版) (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="Undefined",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Legislative",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="Movies",American Horrors (480p)
+https://amhorstream.com/playlist/amhor/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="Undefined",Always Funny Videos (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Undefined",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg
+https://edge02.odtv.az/o8/bloomberg/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Black News Channel (1080p)
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BB;CA;MX;PA;US" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General;MEXICO",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="Religious",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="General",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EE" tvg-logo="" group-title="Undefined",TVN (1080p)
+https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="LV" tvg-logo="https://i.imgur.com/r4rlHUt.png" group-title="Undefined",TVNET
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/qOO32m6.png" group-title="Local",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
