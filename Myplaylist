@@ -41,8 +41,6 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index.m3u8" group-title="All Channels" , MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="All Channels" , Cartoon Network Southeast Asia
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="All Channels" , DZRHNewsTV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , CINEMO!
@@ -112,10 +110,10 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="All Channels" , Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Cartoon Network Russia (576p)
-http://stream01.vnet.am/Kinosemya/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Jr. (720p)
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", CARTOON NETWORK INDIA
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Classic",Retrô Cartoon (480p)
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
