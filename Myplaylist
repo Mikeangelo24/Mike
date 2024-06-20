@@ -47,7 +47,7 @@ https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", PBO PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16701
-#EXTINF:-1 tvg-logo="https://imgur.com/a/SjFtg15" group-title="Philippines TV", VIVA CINEMA PH 
+#EXTINF:-1 tvg-logo="https://imgur.com/a/SjFtg15.png" group-title="Philippines TV", VIVA CINEMA PH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", WARNER HD PH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16783 
@@ -138,21 +138,13 @@ http://170.254.18.106/CINEMAX/index.m3u8
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="All Channels" , AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="102" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png" group-title="All Channels" , HBO Family
-http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-name="185" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="All Channels" , HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png" group-title="All Channels" , HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="54" tvg-logo="https://i.postimg.cc/XvW8ZCZs/Daco-4997049.png" group-title="All Channels" , HBO HD
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png" group-title="All Channels" , HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png" group-title="All Channels" , HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="All Channels" , HBO Hits
-https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , MYTIME MOVIE
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , BIZZARRO MOVIE
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="All Channels" , CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="All Channels" , CGTN Documentaries
