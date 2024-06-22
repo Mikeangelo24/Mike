@@ -28,7 +28,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , Cinema Time tnx for xigncode
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="All Channels" , CLTV 36 PH
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Philippines TV", NET 25
