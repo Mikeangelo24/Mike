@@ -13,6 +13,12 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719144409/ei/ebt3ZsmTDsii1d8PgKO9sAc/ip/152.32.104.39/id/EkjPXwYqjkk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9fyD4h3oyRxTuUvzJeZUb9IKfudHVVY_XvG_pmshoo1uarEZWfjoOPTVs95Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM5OiBflc763dUqosNrPVS7bEe4gNwXN25VqwnLu5KZ4CICdRm1zApN4HAYZAtA8-TjzlG1gPrHOVIKVB2REwcp4H/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
+https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", CGTV
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", I HEART MOVIES 
+https://fl1001.bozztv.com/ssh101/putol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", SARI SARI PH
 http://1tv41.icu:8080/n9UaTQ/546727/101824
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", A2Z PH
