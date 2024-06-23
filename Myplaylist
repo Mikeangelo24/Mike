@@ -4,7 +4,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV BACKUP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719171214/ei/LiR4ZvyBE9z02roPh8qQgA0/ip/152.32.104.39/id/AMM5QGMUUSM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f8AVAioxeCYwqKiQnhQyzNXq3-Dfgwd_Sw2twaWgy5GAwgL5Wx8rjfk_MHI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJ80j6rHRm6tnJFwrUz6rmYSp9WbpPNptix_oaYZwmxkCIQCnM8pYutj9Ha4DB3RZ1aeJ1t_Q-tAwJcywDstq-S9XSA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719204213/ei/FaV4ZsvvJJGW1d8P_uytqAQ/ip/152.32.104.39/id/obwhjYsMRlM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51183013/txs/51183013%2C51183014/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f4s7L93UQCsFvoTcOavczuaA--yX1ZeVHb-8bqtJ2f4mB0sEYFBgsRp8vDQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL0l9ZfqoUD_d2dCq6L1eD_i4Rtkx29Kx1bzwQDdYpskAiAMnZRYe6EtXz0gDo_YgdqAOTAgTTyu5ImJ-xYdfuehyQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", I HEART MOVIES PH
 https://fl1001.bozztv.com/ssh101/putol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA News TV 
@@ -14,14 +14,14 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA LIFE 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719171196/ei/HCR4Zt-NK_uj1d8PyZO90Ac/ip/152.32.104.39/id/EkjPXwYqjkk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f7Lfx6vEOguWdnI3gQ35KkaAGDl6-9baCQnTXegLB36c8XaZPG-ko1HAtDk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOkllF9i2SI16n88f4zLHPjgJM5Wa48hvJ9sIhJX3dwKAiAo1SFK0iDmZ-jkRr_9cNVNSnWFqq_qwydJqoIrG4_2aQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719204196/ei/BKV4ZpTaAtna7OsPo4e2wAw/ip/152.32.104.39/id/EkjPXwYqjkk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1o4A0K9wEzmVUcdCTccfvnIWgaRW9bIgudVmnWmdzWHpQsRQnsevc42dZs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN_xLrTFE-GTc8sQjHj48DFsqczT99FoLv9os-KTAFywAiEA6ektgG99lZ739Tbc3CAa8HZVl0HC5nN5QAMxCyIc1MU%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
 https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", CGTV
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", SARI SARI PH
 http://1tv41.icu:8080/n9UaTQ/546727/101824
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", RPTV PH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", RPTV PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", A2Z PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 
