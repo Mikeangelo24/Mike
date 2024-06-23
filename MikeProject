@@ -1,8 +1,8 @@
-CGTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", CGTV
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 GTV TESTING
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
-K-POP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
 https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
-I heart movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", I HEART MOVIES 
 https://fl1001.bozztv.com/ssh101/putol/playlist.m3u8
