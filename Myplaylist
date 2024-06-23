@@ -21,6 +21,8 @@ https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", SARI SARI PH
 http://1tv41.icu:8080/n9UaTQ/546727/101824
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Philippines TV", PH RPTV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", A2Z PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", TFC PH
