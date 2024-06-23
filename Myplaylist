@@ -5,8 +5,6 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV BACKUP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719121798/ei/JmN3Zvj3GemR7OsPu6iUsAw/ip/152.32.104.39/id/AMM5QGMUUSM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181250/txs/51181249%2C51181250%2C51181251%2C51181252%2C51181253%2C51181254/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f4gCtXBD2jnoHU7uPvtoqeI9SKAHjwSB7ONWL1ZJEQniSUzRov8yOxMPivw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGXM5K7luGjhRld5yR3_xYAkio_ENGr7MVZsTD2ThlcECIDCtelY3BArbxbgKg2NNF5SuzHDqQaivz91L-KGgW9KL/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="All Channels" , GTV maintenance 
-https://ssh101-fl.bozztv.com/ssh101/phcxigncodetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA News TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA Pinoy TV 
