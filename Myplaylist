@@ -65,7 +65,7 @@ http://103.152.216.26:8443/live/live/caMuS99wu4sgO_L8P5atIA/1719280803/134.m3u8
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
-#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://myxnola-abscbn-ono.amagi.tv/index.m3u8" group-title="All Channels" , MYX Philippines
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-name="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="All Channels" , DZRHNewsTV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
@@ -73,7 +73,7 @@ https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16701
 #EXTINF:-1 tvg-logo="https://i.imgur.com/709Uy7N.png" group-title="Philippines TV", PBO PH BACKUP
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567735.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/a/SjFtg15.png" group-title="Philippines TV", VIVA CINEMA PH 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", VIVA CINEMA PH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16684 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", WARNER HD PH 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16783 
@@ -94,7 +94,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Anime" , Anime TV Not24/7
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1  group-title="Movies", HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Movies", HBO
 http://103.133.222.216:4000/stream/channelid/251396527?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOEtOr5.png" group-title="Movies", HBO2
 http://168.181.122.234:8000/play/a02p
