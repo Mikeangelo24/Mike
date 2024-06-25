@@ -5,34 +5,44 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV BACKUP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719243783/ei/pz95ZryqJ47U7OsPk4y-yAg/ip/152.32.104.39/id/obwhjYsMRlM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f__KXAS8ZFpDkmSBWMSCmD6X0ytlcWowMPIHm91VkQX3AfG0Wc5kZN_rtLg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJf_Ft3kHQcoPpV_SpRIkhOC-Pvm1eX2VfolDLHajCx0CIQCmZPBWHxd-h45X9fMB0DpWomofxWjItNeVbG4Ciy25eQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", I HEART MOVIES PH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMK7Fd5.png" group-title="All Channels", GTV
+http://103.152.216.26:8443/live/live/liKosF_7EfjA-aCWDfqpdA/1719280441/103.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4JLWVB.png" group-title="All channels", Kapamilya Channel
+http://103.152.216.26:8443/live/live/W-59aFdWUT5n9J1KLrkT1Q/1719279654/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719290324/ei/dPV5Zr7EE_zAvcAPxsWcuAI/ip/152.32.104.39/id/3PewP7Qj9UY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f8_HDcZddwFdYN1MUFiltH56KTnY0EWcx1V7Vq6s7oqnxFTif94rQ6BNYfc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO-ZwocaPjXgaKCeRK4elUjRF9aglJ1PHKnPpZH3K_ulAiBpxlXuaO4ChYxEqK4IwVVzxeKEnGaVlR2WlGhQkWeYpw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Movies", I HEART MOVIES PH
 https://fl1001.bozztv.com/ssh101/putol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wvndOWF.png" group-title="Movies", Celestial Pinoy Movies
+http://103.152.216.26:8443/live/live/gAKEU0syJghY2HEJgjsocg/1719280221/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA News TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA Pinoy TV 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", GMA LIFE 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719290324/ei/dPV5Zr7EE_zAvcAPxsWcuAI/ip/152.32.104.39/id/3PewP7Qj9UY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f8_HDcZddwFdYN1MUFiltH56KTnY0EWcx1V7Vq6s7oqnxFTif94rQ6BNYfc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO-ZwocaPjXgaKCeRK4elUjRF9aglJ1PHKnPpZH3K_ulAiBpxlXuaO4ChYxEqK4IwVVzxeKEnGaVlR2WlGhQkWeYpw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7I69OA.png" group-title="All Channels", Jeepney TV
+http://103.152.216.26:8443/live/live/kFl5CSaYHZlSOxuvySvtFA/1719280471/165.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", RPTV PH
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifzuml4.png" group-title=All Channels", RPTV PH BACKUP
+http://103.152.216.26:8443/live/live/j_d-tkLMum5KZyQVWPhsJA/1719280896/127.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
 https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", CGTV
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", SARI SARI PH
 http://1tv41.icu:8080/n9UaTQ/546727/101824
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", RPTV PH
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", A2Z PH
  http://103.152.216.26:8443/live/live/liKosF_7EfjA-aCWDfqpdA/1719280441/140.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", TFC PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16733
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="All Channels" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , Cinema Time
 https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="All Channels" , CLTV 36 PH
@@ -48,7 +58,7 @@ http://1tv41.icu:8080/n9UaTQ/546727/22995
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", NBA TV TEST3
 http://1tv41.icu:8080/n9UaTQ/546727/20073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", PBA RUSH 
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16782
+http://103.152.216.26:8443/live/live/caMuS99wu4sgO_L8P5atIA/1719280803/134.m3u8
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-name="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels" , Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
@@ -80,6 +90,23 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Anime" , Anime TV Not24/7
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1  group-title="Movies", HBO
+http://103.133.222.216:4000/stream/channelid/251396527?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOEtOr5.png" group-title="Movies", HBO2
+http://168.181.122.234:8000/play/a02p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OspRTI.png" group-title="Movies", HBO3
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INMD2Kf.png" group-title="Movies", HBO Family
+http://103.133.222.216:4000/stream/channelid/1635779724?profile=pass
+EXTINF:-1 tvg-logo="https://i.imgur.com/8osIZLM.png" group-title="Movies", HBO Plus
+http://168.181.122.234:8000/play/a02x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRXVlmi.png" group-title="Movies", HBO Signature
+http://103.133.222.216:4000/stream/channelid/1633165234?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWLAxaI.png" group-title="Movies", HBO Xtreme
+http://168.181.122.234:8000/play/a02s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiYO0dI.png" group-title="Movies", HBO Hits
+http://103.133.222.216:4000/stream/channelid/1115723955?profile=pass
+
 #EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="VOD Movies (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
