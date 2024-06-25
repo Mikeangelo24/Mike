@@ -29,7 +29,7 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16720
 http://103.152.216.26:8443/live/live/kFl5CSaYHZlSOxuvySvtFA/1719280471/165.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", RPTV PH
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ifzuml4.png" group-title=All Channels", RPTV PH BACKUP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title=All Channels", RPTV PH BACKUP
 http://103.152.216.26:8443/live/live/j_d-tkLMum5KZyQVWPhsJA/1719280896/127.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
 https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
