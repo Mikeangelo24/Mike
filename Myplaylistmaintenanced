@@ -31,6 +31,8 @@ http://103.152.216.26:8443/live/live/kFl5CSaYHZlSOxuvySvtFA/1719280471/165.m3u8
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title=All Channels", RPTV PH BACKUP
 http://103.152.216.26:8443/live/live/j_d-tkLMum5KZyQVWPhsJA/1719280896/127.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , SNI
+https://playback2.akamaized.net/streams/19079954_7831871_lsi67jjfpc9zimy7tl3_1/master.m3u8?dw=32&hdnts=exp=1719412767~acl=/streams/19079954_7831871_lsi67jjfpc9zimy7tl3_1/master.m3u8*~hmac=1ed159890f42f919613624f6f0efa4e1ddc234eb36cf7db933dd0a037eb51ce2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", K-POP TV
 https://fl1002.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", CGTV
@@ -83,6 +85,8 @@ http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16690
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16730 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", TvN Premium 
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16752
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels"  , WOW MOVIES
+https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="PTV4.ph" tvg-name="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="All Channels" , PTV 4 not 24/7
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", PH Cinemax http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16704
@@ -94,6 +98,18 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Anime" , Anime TV Not24/7
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", CARTOON NETWORK INDIA
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Classic",Retrô Cartoon (480p)
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoonito Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png group-title="All Channels" , Disney Channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Movies", HBO
 http://103.133.222.216:4000/stream/channelid/251396527?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOEtOr5.png" group-title="Movies", HBO2
@@ -151,16 +167,6 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="All Channels" , Cartoon Network Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", CARTOON NETWORK INDIA
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="Classic",Retrô Cartoon (480p)
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoon Network Southeast Asia (1080p)
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoonito Southeast Asia (1080p)
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="All Channels" , KBS World
