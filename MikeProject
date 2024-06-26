@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="All Channels" , SNI
-https://playback2.akamaized.net/streams/19079954_7831871_lsiumd9m8jvo73d0nno_1/master.m3u8?dw=32&hdnts=exp=1719127381~acl=/streams/19079954_7831871_lsiumd9m8jvo73d0nno_1/master.m3u8*~hmac=c9a5c64dce840c15bc3f43c5a5fd14c8c01c3f24820f6e6c9ef9e4896060ae44
+https://playback2.akamaized.net/streams/19079954_7831871_lsi67jjfpc9zimy7tl3_1/master.m3u8?dw=32&hdnts=exp=1719412767~acl=/streams/19079954_7831871_lsi67jjfpc9zimy7tl3_1/master.m3u8*~hmac=1ed159890f42f919613624f6f0efa4e1ddc234eb36cf7db933dd0a037eb51ce2
 #EXTINF:-1  group-title="All Channels"  , WOW MOVIES
 https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 group-title="All Channels" , TVS CARTOON NETWORK 
