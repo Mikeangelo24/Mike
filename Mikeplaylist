@@ -8,9 +8,9 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="GMATV.ph" group-title="All Channels",GMA TV
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uAqFMLy.png" tvg-name="" group-title="All Channels",GMA TV BACKUP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719745429/ei/NeeAZpTuFdSo7OsPpY6c-AE/ip/152.32.104.39/id/76tHfe0rOO4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fztOx-JpvvXDPhiiBLvcEKvzUAHquXgaNjWu3Ido4nrYlbAL9ZFY0ZGn860/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOUMcuYS9MxgdFIycv8tbG1MjV3HTPmTP-FncHUMXtfIAiEAsEpTRIXoty9jYEimBP6PgQPKKtKYRbAuFbbSwHRNZqQ%3D/file/index.m3u8
+http://jeromelaliag.link/iptv/gmanetwork.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" tvg-name="" group-title="All Channels",Kapamilya Online live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719748451/ei/A_OAZpmMFabm7OsPk82u2A8/ip/152.32.104.39/id/isdnSeLfPso.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166969/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f2I2gG07MWgAC9wJA4vKCXUOvimEym00oemKFlE5lv620owSuHU-pNVS1O0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALAYdsBHLEMZcDSqy9-N-dJQy4q3ZwvDixDoy9lCMfQYAiBw2uh7ksSDay4O2Hy4x6WC9BEnswLFppNfTd-203udKQ%3D%3D/file/index.m3u8
+http://jeromelaliag.link/iptv/abscbnentertainment.php
 #EXTINF:-1 group-title="All Channels",KAPAMILYA CHANNEL
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels",DREAMWORK TV PH TAGALOG
@@ -370,17 +370,17 @@ https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/
 #EXTINF:-1 tvg-logo="" tvg-country="EE" group-title="Undefined",TVN (1080p)
 https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png" tvg-country="LV" group-title="Undefined",TVNET
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8?checkedby:iptvcat.com
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" tvg-country="HK;MY;PH;TH" group-title="Entertainment",tvN (台湾版) (1080p) [Geo-blocked]
-https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8?checkedby:iptvcat.com
+https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6lB0Ww.png" tvg-country="US" group-title="Legislative",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-country="US" group-title="Business",Bloomberg
-https://edge02.odtv.az/o8/bloomberg/playlist.m3u8?checkedby:iptvcat.com
+https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="BB;CA;MX;PA;US" group-title="General;MEXICO",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnp02.png" tvg-country="BR" group-title="Local",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOO32m6.png" tvg-country="US" group-title="Local",NBC 15 Madison WI (WMTVNBC)
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zoHBxn1.png" tvg-country="BR" group-title="General",TVNBN (720p)
