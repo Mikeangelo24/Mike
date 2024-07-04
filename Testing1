@@ -1,4 +1,25 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="All Channels" , TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="All Channels" , GMA TV
+https://ln.run/mikephgma7?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online live
+https://ln.run/MikephKapamilya?.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="Philippines TV", NBA TV 
+https://dvrfl07.bozztv.com/astv-nbatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="ALL CHANNEL", Cartoonito Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , MYTIME MOVIE
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="All Channels" , BIZZARRO MOVIE
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
