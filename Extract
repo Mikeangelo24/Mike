@@ -1,0 +1,46 @@
+</style>
+</head>
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.techyhub.co/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '5']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<body>
+<div class="menu">
+    <a href="/">Home</a>
+    <a href="https://anym3u8player.com/yt/">YouTube M3U8 Link Extractor</a>
+</div>
+
+<div class="wrapper">
+    <div class="container">
+        <h1>YouTube M3U8 Link Extractor from Livestream</h1>
+        <h2>About This Tool</h2>
+        <p class="description">
+            Our YouTube M3U8 Link Extractor is designed to help you easily retrieve M3U8 links from YouTube livestreams. With a user-friendly interface, this tool provides quick and accurate results, ensuring you get the livestream link you need.
+        </p>
+        <h3>How to Use</h3>
+        <p class="description">
+            Simply enter the YouTube livestream URL in the input field below and click "Extract hlsManifestUrl". The tool will process the URL and provide you with the M3U8 link.
+        </p>
+
+        <form action="" method="post">
+            <b><label for="youtube_url_input">Enter YouTube URL:</label></b>
+            <input type="url" id="youtube_url_input" name="youtube_url" required placeholder="Enter YouTube Livestream URL">
+            <input type="submit" value="Extract hlsManifestUrl">
+        </form>
+
+            </div>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8a57e46d5c080446","version":"2024.7.0","r":1,"token":"c74760c40c584b4780be35099c875a44","serverTiming":{"name":{"cfL4":true}}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
