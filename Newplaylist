@@ -529,3 +529,708 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Extreme Sports
 http://myott.top/stream/DT6QU63K5VX/148.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Adventure Sports TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9550df13a9b00078677a7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f511-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bd268c5-ffe8-41b9-87eb-00b21764a8c4&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="Sport",Extreme Sports
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="Sport",Awapa Sports TV (1080p) [Not 24/7]
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Sport",Claro Sports Chile
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Pluto TV Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05c6a5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa2cd1f8-5f20-441d-97cb-63e4c1c5e4f6&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Unbeaten Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c3b0bf0e086a0009e8a60d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072630-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d441167-0fab-494c-981d-be5d461f5181&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/hRNUo9n.png" group-title="Sport",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",ERT Sports 2 (1080p) [Geo-blocked]
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports TEN 2 HD (1080p)
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 1 (1080p)
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 3 (1080p)
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 3 HD (1080p)
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 4 (1080p)
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 4 HD (1080p)
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 5 (1080p)
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",Sony Sports Ten 5 HD (1080p)
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sports Italia
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sport",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sport",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sport",DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Sport",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sport",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SO" tvg-logo="" group-title="Sport",Sports Connect (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="" group-title="Sport",T Sports 7 (720p)
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sport",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png" group-title="Sport",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="Sport",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Sport",EPG : TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4" group-title="Sport",ESR eSports Network
+https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Sport",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",SPORT : Dubai Sports 3,SPORT | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Sport",ST-TV : SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/07072020/SportsGrid_190x190.png?raw=true" group-title="Sport",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sport",SportsGrid Network
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sport",Dubai Sports 1 (1080p)
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1 (1080p)
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Pluto TV Sports (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN SPORTS XTRA En Espanol (720p)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sport",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports (720p)
+https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports en Espanol (720p)
+https://lnc-fox-sports-espanol2.tubi.video/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",MAVTV Motor Sports IN
+https://84f081227bc1418984b9e3dcaa985b2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_MAVTVMotorSportsNetwork/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",MAVTV Motor Sports UK
+https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21e31328-eadb-4828-8608-0cc14ce24586&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Pluto TV Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Fc3NQAI.png" group-title="Sport",Pluto TV Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8673a43c-58ba-48b3-8db5-75986abb01b9&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports News Highlights (720p) [Geo-blocked]
+https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Trace Sports Stars (1080p)
+https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA Today SportsWire
+https://lnc-sportswire.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sport",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Whacked Out Sports (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb932046-e001-4189-a871-1376aa2ec340&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sport",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS XTRA en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",beIN SPORTS XTRA en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Extreme Sports
+http://myott.top/stream/DT6QU63K5VX/148.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AU;ID" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AU;IN;JP;MN;NZ;PK" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News;PAKISTAN",BBC News Asia Pacific (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Undefined",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",News 24 (392p) [Not 24/7]
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",Ora News (720p)
+https://live1.mediadesk.al/oranews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="News",Echorouk News (576p) [Not 24/7]
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="News",Echorouk News (576p) [Not 24/7]
+https://bledflix-echorouk-news.b-cdn.net/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AM" tvg-logo="" group-title="News",BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AM" tvg-logo="" group-title="News",First Channel News (1080p)
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="News",AZ News (720p)
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="News",ATN News (1080p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="News",DBC News (1080p)
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="News",News 24 (720p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="News",Somoy News TV (1080p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Bandnews (720p) [Geo-blocked]
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",Record News (720p) [Geo-blocked]
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="News",TVídeoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KH" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="News",Fresh News (720p)
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="News",Fresh News TV (720p)
+http://streaming.freshnewsasia.com:1935/live/ngrp:myStream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CM" tvg-logo="" group-title="News",Africa+ News (480p) [Not 24/7]
+http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CBC News Explore [Geo-blocked] (720p)
+https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News BC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Calgary
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf23dcfb48300077f8348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=806004b3-dd0d-4fb2-b4a6-fdc04916c09b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="News",Global News Calgary (720p)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Edmonton
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/WjBya3b.jpg" group-title="News",Global News Edmonton (720p)
+https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Halifax
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bb95718e-5f7a-42ff-afbd-dd69a8d9c750&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Kingston
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf4964446e2000742073e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2703358d-cd85-4e18-b252-dad10d86dc4a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Lethbridge
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf7439cb58900088dc77b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59059981-bf95-449f-80e8-69615ac86535&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/HM2cvBm.jpg" group-title="News",Global News Lethbridge (720p)
+https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Montreal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News National
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Okanagan
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfc572dc3750007a493ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42c1b7b5-72bc-430e-925b-fcada64fc69c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bMXVsVB.jpg" group-title="News",Global News Okanagan (720p)
+https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Peterborough
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfcd8c2db990007861e43/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fbd862a-254a-4ef1-bbcf-ee26c7a7a35b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Regina
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbff53ca8f2200080253b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1d76b1b-8c4c-4a05-bf77-7cdb5ffff309&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Saskatoon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00359cb58900088dc840/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1bc20851-ccc6-43b2-a6cc-fbad52695d98&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Toronto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="News",Global News Toronto (720p)
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",Global News Winnipeg
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc0120880c890007191016/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9bcdaa8b-3df2-47ca-abf7-ba093e2e6ca0&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Ankang TV-1 News [Geo-blocked]
+http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Foshan News TV
+http://dslive.grtn.cn/fszh/sd/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fed25d80-74f3-47d1-a87b-51755ac6ef8a&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CNews
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews English
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews French
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews French
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2572&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews Portuguese
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Euronews Spanish
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HT" tvg-logo="" group-title="News",Haiti News Channel (720p) [Not 24/7]
+https://haititivi.com/website/haitinews/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="News",TVB News Channel (720p)
+https://cdn.hklive.tv/xxxx/83/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="News",i-Cable News Channel (有線新聞台) (1080p) [Geo-blocked]
+https://cdn.hklive.tv/xxxx/78/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",AJ Net News [Not 24/7]
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",CD News (576p)
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News (1080p)
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/MUTe7cu.png" group-title="News",First India News (360p) [Not 24/7]
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Gulistan News (720p)
+https://livestream.jktvonline.com/hls/gul.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",High News (480p)
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/l54AGtz.png" group-title="News",India News (576p) [Not 24/7]
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/Ot8FDqS.png" group-title="News",India News Haryana (576p)
+https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/3IoC5QR.png" group-title="News",India News Madhya Pradesh/Chhattisgarh (576p)
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/Mu1MPvt.png" group-title="News",India News Punjab/Himachal (576p)
+https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/i16786i.png" group-title="News",India News Rajasthan (576p)
+https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/nMsMlig.png" group-title="News",India News Uttar Pradesh (576p)
+https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",JK 24x7 News (720p)
+https://livestream.jktvonline.com/hls/jk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/LeBL7ML.png" group-title="News",K News India (1080p)
+https://knews.livebox.co.in/youtubehls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/IGduUk4.png" group-title="News",Naxatra News (720p)
+https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x72O77X.png" group-title="News",News 24 (720p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",PTC News (720p)
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Polimer News (720p) [Geo-blocked]
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/h4UehKC.png" group-title="News",Sadhna Plus News (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/7AV1VI9.png" group-title="News",Sudarshan News (720p)
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="News",VBC News (576p)
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",VTV News (360p)
+https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="News",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News",iNews (720p)
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="News",Al-Sharqiya News (1080p)
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",La C News 24 (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/5Sh1tWu.png" group-title="ITALY",RTL 102.5 News (1080p)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/kC0c9Q6.png" group-title="ITALY",Telepace News (720p)
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="News",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="News",Roya News (1080p)
+https://roya-live.ercdn.net/royanews/royanews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="News",ALWifak News TV (720p)
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="News",ALWifak News TV (720p)
+http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News;Undefined",Sky News Arabia,SKY NEWS ARABIA (1280×720)
+https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="News",Smash 7News [Geo-blocked]
+http://80.79.6.221:25461/smash/public/16?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MT" tvg-logo="" group-title="News",TVM News+ [Geo-blocked]
+http://80.79.6.221:25461/smash/public/20?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO",Estrella News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a354-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=496a9c8b-4a81-4661-ac66-d226a913d5e9&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="MEXICO",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MN" tvg-logo="" group-title="News",Eagle News HD (1080p)
+https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NG" tvg-logo="" group-title="News",Silverbird News 24 (576p)
+https://webstreaming.viewmedia.tv/web_029/Stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",City News HD (1080p)
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",Dunya News (480p) [Not 24/7]
+https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="PAKISTAN",Dunya News (INT Feed) (480p) [Not 24/7]
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",Dunya News (INT Feed) (720p) [Not 24/7]
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",Dunya News (UK Feed) (720p) [Not 24/7]
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAKISTAN",PNN News (720p)
+https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="PAKISTAN",Suno News HD (720p)
+https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="News",Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="News",Antena 1 (Observator News)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="https://www.aznews.tv/wp-content/uploads/2019/04/headerlogo.fw_.png" group-title="News",Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="News",Syrian News Channel (360p) [Not 24/7]
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="News",Syrian News Channel (360p) [Not 24/7]
+http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="News",Global News (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="News",Top News (720p)
+https://live.topnews.co.th/hls/topnews_a_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="News",UYGUR TV NEWS
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Undefined",AF | Ariana News,Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Afghanistan : Ariana News TV
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1975730063.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w449457930.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News;Undefined",Alsharqiya News (Backup)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/248x140.png?type=channelTile" group-title="News",BNC (Black News Channel)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/3RUw9BW.png" group-title="News",Black News Channel
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/playlistR404p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News
+https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Estrella_News_190X190.png?raw=true" group-title="News",Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/f4Bec0i.png" group-title="News",Estrella News
+https://estrellanews-plex.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Estrella News (720p)
+https://estrellanews-glewed.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски
+https://edge02.odtv.az/o1/euronews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/JIA7MUV.png" group-title="News",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Lahore_News.png" group-title="News;FRANCE",Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="News",News 12 New York
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",News 24 Balkan
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="News",NewsNow from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",Newsmax
+https://newsmax-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/09092020/Newsmax%20TV_190x190.png?raw=true" group-title="News",Newsmax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News;Undefined",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f96bdd939905e0ce7438dd4" group-title="News",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",RT News (1080p) [Not 24/7]
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",RT News (1080p) [Not 24/7]
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",RT News (1080p) [Not 24/7]
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/AdIThwq.png" group-title="News",Revry News
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81131e591a036585913e9" group-title="News",Revry News
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : Estrella News
+https://estrellanews-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Undefined",Xumo : 145 Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News;Undefined",Arab's Sky News (Backup),makkah,Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News (540p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News (720p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",1Yes News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",America's Voice News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/C4w0eYC.png" group-title="News",America's Voice News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Black News Channel (1080p)
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=36903a12-54e9-4279-a247-c026f64396a8&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Baltimore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75919718aed0007250d7a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c064a9-4fea-47dd-bfe1-339df4edb223&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="News",CBS News Baltimore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75919718aed0007250d7a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2c064a9-4fea-47dd-bfe1-339df4edb223&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Bay Area
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bd2f615-6b6e-4064-999c-18f8e5fef312&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Bay Area
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bd2f615-6b6e-4064-999c-18f8e5fef312&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Boston
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91870f6-66d3-4ab8-bee7-503a15f2ffaa&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="News",CBS News Boston
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91870f6-66d3-4ab8-bee7-503a15f2ffaa&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Chicago
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d5b75a06-e54e-4df0-b26d-9cc72a81b497&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Chicago
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6fee3fa1-e914-4744-aead-7461eaec70c2&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Chicago
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6fee3fa1-e914-4744-aead-7461eaec70c2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/qGbVQir.png" group-title="News",CBS News Chicago
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5b75a06-e54e-4df0-b26d-9cc72a81b497&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Colorado
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa549f2c-49d6-4bce-bacd-70b6925e7bf8&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2oyYwBw.png" group-title="News",CBS News Colorado
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa549f2c-49d6-4bce-bacd-70b6925e7bf8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Detroit
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f2610d5023700078f7dee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8334f86e-7583-40d6-b2f2-2e8328f8b6ef&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="News",CBS News Detroit
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f2610d5023700078f7dee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8334f86e-7583-40d6-b2f2-2e8328f8b6ef&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eae9bdc0-6180-4f5d-8ffa-b05719d60f76&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eae9bdc0-6180-4f5d-8ffa-b05719d60f76&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/klULxMV.png" group-title="News",CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f5951e3-be83-4440-8784-62a52e09b81b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="News",CBS News Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb299b79498900070b29e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f5951e3-be83-4440-8784-62a52e09b81b&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Minnesota
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4664f76e-5d97-4d34-816d-f8d81755622a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBS News Minnesota
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4664f76e-5d97-4d34-816d-f8d81755622a&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Minnesota (720p)
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="News",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Philadelphia
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Philadelphia
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Pittsburgh
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0e061b0-8217-4bae-9a09-61f828338bbc&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Un9IrUh.png" group-title="News",CBS News Pittsburgh
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0e061b0-8217-4bae-9a09-61f828338bbc&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Sacramento
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d09dee4f-4202-48bd-b577-6544af5864e1&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="News",CBS News Sacramento
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d09dee4f-4202-48bd-b577-6544af5864e1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Spotlight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb321ee99fac0008c9ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22a52ebf-8b3c-42d6-b9f8-8b8019b998c9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Spotlight
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb321ee99fac0008c9ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=22a52ebf-8b3c-42d6-b9f8-8b8019b998c9&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Texas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=870d3aac-da79-4239-a021-82bea2a622d2&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CBS News Texas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=870d3aac-da79-4239-a021-82bea2a622d2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Captain News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",City News HD (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5DtDCEclIwhOlP0p8UeQMA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",DNews (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Estrella News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a354-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=496a9c8b-4a81-4661-ac66-d226a913d5e9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews Bulgaria (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCU1i6qBMjY9El6q5L2OK8hA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews English (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Euronews English (7200p)
+https://lnc-euronews.tubi.video/ewnsabren_eng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Fox 61 News Hartford CT (WTIC-TV)
+https://livevideo.tegnadigital.com/wtic/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png" group-title="News",Fox 61 News Hartford CT (WTIC-TV)
+https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Fox News Channel
+https://news.codeautoplaycdn1.workers.dev/?channel=foxnewschannel&codeby=nd&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Fox News Channel (144p)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",GB News (720p) [Geo-blocked]
+https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="News",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",India News Madhya Pradesh/Chhattisgarh (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCrDfc0F8U1QN3u82Qq_6fjA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Jovem Pan News (720p)
+https://amg01391-addigital-jovempan-klowdtv-cpe4b.amagi.tv/playlist/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",K21 News (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UC7g-LI8ueb6qTFZ5-gDgrGg.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Metro1 News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC95lddVg_04jAevVGYknx_w.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC New York News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC New York News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC News NOW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",News 12 New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="News",News 12 New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",NewsNet (720p)
+https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="News",Newsmax,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News",Newsmax (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Newsmax TV (720p) [Geo-blocked]
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Newsmax2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="News",Newsmax2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" group-title="News",Newsy
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Pluto TV News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JdqA4r9.png" group-title="News",Pluto TV News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Raj News Telugu (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Roze News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",SMNI News Channel (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Salem News Channel (720p) [Geo-blocked]
+https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Scripps News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="News",Scripps News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Sports News Highlights (720p) [Geo-blocked]
+https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Ticker News (720p)
+https://tickernews-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Ukraine World News (1440p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="News",W14DK-D 14.2 NEWSNET
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="News",BBC News HD UK
+http://myott.top/stream/DT6QU63K5VX/85.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="News",CBS News
+http://tvpremiumhd.club/lista-gratuita/221424/cbsnews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="News",CBS News
+http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="News",CBS News HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="News",EuroNews
+http://myott.top/stream/DT6QU63K5VX/189.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/KFKktei.png" group-title="News",RT News HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=secure-streams.akamaized.net/rt/index&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (1920p) [Portrait]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/uy91U7w.png" group-title="News",Sky News HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07&checkedby:iptvcat.com
