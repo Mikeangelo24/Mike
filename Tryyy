@@ -1,0 +1,138 @@
+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="Main" tvg-id="new/a2z" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] A2Z
+http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:2 group-title="Main" tvg-id="new/animax" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Animax
+http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:3 group-title="Main" tvg-id="new/animexhidive" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Anime X HiDive
+http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:4 group-title="Main" tvg-id="new/axn" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] AXN
+http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:5 group-title="Main" tvg-id="new/cartoonnetwork" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cartoon Network
+http://178.128.21.207:1234/stream/new/cartoonnetwork/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:6 group-title="Main" tvg-id="new/cartoonnetworkcignal" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cartoon Network Cignal
+http://178.128.21.207:1234/stream/new/cartoonnetworkcignal/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:7 group-title="Main" tvg-id="new/cinemaxhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cinemax HD
+http://178.128.21.207:1234/stream/new/cinemaxhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:8 group-title="Main" tvg-id="new/dreamworks" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks
+http://178.128.21.207:1234/stream/new/dreamworks/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:9 group-title="Main" tvg-id="new/dreamworkstagalog" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks Tagalog
+http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:10 group-title="Main" tvg-id="new/rockaction" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GEM
+http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:11 group-title="Main" tvg-id="new/gma" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GMA
+http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:12 group-title="Main" tvg-id="new/gtv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GTV
+http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:13 group-title="Main" tvg-id="new/hbofamily" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Family
+http://178.128.21.207:1234/stream/new/hbofamily/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:14 group-title="Main" tvg-id="new/hbohd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO HD
+http://178.128.21.207:1234/stream/new/hbohd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:15 group-title="Main" tvg-id="new/hbohitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Hits HD
+http://178.128.21.207:1234/stream/new/hbohitshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:16 group-title="Main" tvg-id="new/hbosignature" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Signature
+http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:17 group-title="Main" tvg-id="new/hitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HITS HD
+http://178.128.21.207:1234/stream/new/hitshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:18 group-title="Main" tvg-id="new/hitsmovies" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Movies
+http://178.128.21.207:1234/stream/new/hitsmovies/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:19 group-title="Main" tvg-id="new/hitsnow" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Now
+http://178.128.21.207:1234/stream/new/hitsnow/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:20 group-title="Main" tvg-id="new/kapamilyachannel" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Kapamilya Channel
+http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:21 group-title="Main" tvg-id="new/kbsworld" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] KBS World
+http://178.128.21.207:1234/stream/new/kbsworld/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:22 group-title="Main" tvg-id="new/myx" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Myx
+http://178.128.21.207:1234/stream/new/myx/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:23 group-title="Main" tvg-id="new/nbatvphillipines" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] NBA TV Phillipines
+http://178.128.21.207:1234/stream/new/nbatvphillipines/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:24 group-title="Main" tvg-id="new/nickelodeon" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon
+http://178.128.21.207:1234/stream/new/nickelodeon/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:25 group-title="Main" tvg-id="new/nickelodeonastro" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon HD
+http://178.128.21.207:1234/stream/new/nickelodeonastro/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:26 group-title="Main" tvg-id="new/one" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] ONE
+http://178.128.21.207:1234/stream/new/one/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:27 group-title="Main" tvg-id="new/onesports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports +
+http://178.128.21.207:1234/stream/new/onesports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:28 group-title="Main" tvg-id="new/onesportshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports HD
+http://178.128.21.207:1234/stream/new/onesportshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:29 group-title="Main" tvg-id="new/pbarush" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PBA Rush
+http://178.128.21.207:1234/stream/new/pbarush/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:30 group-title="Main" tvg-id="new/rockaction-1" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Action
+http://178.128.21.207:1234/stream/new/rockaction-1/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:31 group-title="Main" tvg-id="new/rockentertainment" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Entertainment
+http://178.128.21.207:1234/stream/new/rockentertainment/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:32 group-title="Main" tvg-id="new/rptv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] RPTV
+http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:33 group-title="Main" tvg-id="new/rockaction2" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tagalized Movie Channel
+http://178.128.21.207:1234/stream/new/rockaction2/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:34 group-title="Main" tvg-id="new/tapedge" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Edge
+http://178.128.21.207:1234/stream/new/tapedge/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:35 group-title="Main" tvg-id="new/tapsports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Sports
+http://178.128.21.207:1234/stream/new/tapsports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:36 group-title="Main" tvg-id="new/tv5" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] TV5
+http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:37 group-title="Main" tvg-id="new/tvnmovieshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies HD
+http://178.128.21.207:1234/stream/new/tvnmovieshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:38 group-title="Main" tvg-id="new/tvnmoviespinoy" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies Pinoy
+http://178.128.21.207:1234/stream/new/tvnmoviespinoy/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:39 group-title="Main" tvg-id="new/tvnpremiumhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Premium HD
+http://178.128.21.207:1234/stream/new/tvnpremiumhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:40 group-title="Main" tvg-id="new/vevo2010s" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2010s
+http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:41 group-title="Main" tvg-id="new/vevo2k" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2K
+http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:42 group-title="Main" tvg-id="new/vevofeatures" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Features
+http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:43 group-title="Main" tvg-id="new/vevohiphop" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Hip-Hop
+http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:44 group-title="Main" tvg-id="new/vevorb" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo R&B
+http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:45 group-title="Main" tvg-id="new/warnertv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Warner TV
+http://178.128.21.207:1234/stream/new/warnertv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
