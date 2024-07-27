@@ -1,165 +1,236 @@
-
 #EXTM3U x-tvg-url=""
 
 #EXTINF:1 group-title="Main" tvg-id="new/a2z" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] A2Z
-http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
 #EXTINF:2 group-title="Main" tvg-id="new/animax" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Animax
-http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
 #EXTINF:3 group-title="Main" tvg-id="new/animexhidive" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Anime X HiDive
-http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:4 group-title="Main" tvg-id="new/aniplusindonesianfeed" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Aniplus (Indonesian Feed)
-http://178.128.21.207:1234/stream/new/aniplusindonesianfeed/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:4 group-title="Main" tvg-id="new/axn" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] AXN
+http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:5 group-title="Main" tvg-id="new/axn" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] AXN
-http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:5 group-title="Main" tvg-id="new/bbcearth" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] BBC Earth HD
+http://178.128.21.207:1234/stream/new/bbcearth/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:6 group-title="Main" tvg-id="new/bbcearth" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] BBC Earth HD
-http://178.128.21.207:1234/stream/new/bbcearth/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:6 group-title="Main" tvg-id="new/cartoonnetwork" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cartoon Network
+http://178.128.21.207:1234/stream/new/cartoonnetwork/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:7 group-title="Main" tvg-id="new/cartoonnetwork" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cartoon Network
-http://178.128.21.207:1234/stream/new/cartoonnetwork/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:7 group-title="Main" tvg-id="new/celestialmoviespinoy" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Celestial Movies Pinoy
+http://178.128.21.207:1234/stream/new/celestialmoviespinoy/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:8 group-title="Main" tvg-id="new/celestialmoviespinoy" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Celestial Movies Pinoy
-http://178.128.21.207:1234/stream/new/celestialmoviespinoy/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:8 group-title="Main" tvg-id="new/cinemaxhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cinemax HD
+http://178.128.21.207:1234/stream/new/cinemaxhd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:9 group-title="Main" tvg-id="new/cinemaxhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cinemax HD
-http://178.128.21.207:1234/stream/new/cinemaxhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:9 group-title="Main" tvg-id="new/cinemo" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Cinemo!
+http://178.128.21.207:1234/stream/new/cinemo/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:10 group-title="Main" tvg-id="new/dreamworks" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks
-http://178.128.21.207:1234/stream/new/dreamworks/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:10 group-title="Main" tvg-id="new/crimeinvestigation" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Crime & Investigation
+http://178.128.21.207:1234/stream/new/crimeinvestigation/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:11 group-title="Main" tvg-id="new/dreamworkstagalog" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks Tagalog
-http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:11 group-title="Main" tvg-id="new/dreamworks" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks
+http://178.128.21.207:1234/stream/new/dreamworks/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:12 group-title="Main" tvg-id="new/rockaction" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GEM
-http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:12 group-title="Main" tvg-id="new/dreamworkstagalog" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Dreamworks Tagalog
+http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:13 group-title="Main" tvg-id="new/gma" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GMA
-http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:13 group-title="Main" tvg-id="new/rockaction" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GEM
+http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:14 group-title="Main" tvg-id="new/gtv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GTV
-http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:14 group-title="Main" tvg-id="new/globaltrekker" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Global Trekker
+http://178.128.21.207:1234/stream/new/globaltrekker/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:15 group-title="Main" tvg-id="new/hbofamily" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Family
-http://178.128.21.207:1234/stream/new/hbofamily/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:15 group-title="Main" tvg-id="new/gma" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GMA
+http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:16 group-title="Main" tvg-id="new/hbohd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO HD
-http://178.128.21.207:1234/stream/new/hbohd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:16 group-title="Main" tvg-id="new/gtv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] GTV
+http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:17 group-title="Main" tvg-id="new/hbohitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Hits HD
-http://178.128.21.207:1234/stream/new/hbohitshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:17 group-title="Main" tvg-id="new/hbofamily" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Family
+http://178.128.21.207:1234/stream/new/hbofamily/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:18 group-title="Main" tvg-id="new/hbosignature" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Signature
-http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:18 group-title="Main" tvg-id="new/hbohd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO HD
+http://178.128.21.207:1234/stream/new/hbohd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:19 group-title="Main" tvg-id="new/hitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HITS HD
-http://178.128.21.207:1234/stream/new/hitshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:19 group-title="Main" tvg-id="new/hbohitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Hits HD
+http://178.128.21.207:1234/stream/new/hbohitshd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:20 group-title="Main" tvg-id="new/hitsmovies" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Movies
-http://178.128.21.207:1234/stream/new/hitsmovies/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:20 group-title="Main" tvg-id="new/hbosignature" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HBO Signature
+http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:21 group-title="Main" tvg-id="new/hitsnow" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Now
-http://178.128.21.207:1234/stream/new/hitsnow/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:21 group-title="Main" tvg-id="new/hitshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] HITS HD
+http://178.128.21.207:1234/stream/new/hitshd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:22 group-title="Main" tvg-id="new/kplus" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] K-Plus
-http://178.128.21.207:1234/stream/new/kplus/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:22 group-title="Main" tvg-id="new/hitsmovies" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Movies
+http://178.128.21.207:1234/stream/new/hitsmovies/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:23 group-title="Main" tvg-id="new/kapamilyachannel" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Kapamilya Channel
-http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:23 group-title="Main" tvg-id="new/hitsnow" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Hits Now
+http://178.128.21.207:1234/stream/new/hitsnow/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:24 group-title="Main" tvg-id="new/kbsworld" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] KBS World
-http://178.128.21.207:1234/stream/new/kbsworld/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:24 group-title="Main" tvg-id="new/kplus" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] K-Plus
+http://178.128.21.207:1234/stream/new/kplus/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:25 group-title="Main" tvg-id="new/mpbl" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] MPBL
-http://178.128.21.207:1234/stream/new/mpbl/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:25 group-title="Main" tvg-id="new/kapamilyachannel" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Kapamilya Channel
+http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:26 group-title="Main" tvg-id="new/myx" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Myx
-http://178.128.21.207:1234/stream/new/myx/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:26 group-title="Main" tvg-id="new/kbsworld" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] KBS World
+http://178.128.21.207:1234/stream/new/kbsworld/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:27 group-title="Main" tvg-id="new/nbatvphillipines" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] NBA TV Phillipines
-http://178.128.21.207:1234/stream/new/nbatvphillipines/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:27 group-title="Main" tvg-id="new/kbsworldsd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] KBS World SD
+http://178.128.21.207:1234/stream/new/kbsworldsd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:28 group-title="Main" tvg-id="new/nickelodeon" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon
-http://178.128.21.207:1234/stream/new/nickelodeon/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:28 group-title="Main" tvg-id="new/kixhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] KIX HD
+http://178.128.21.207:1234/stream/new/kixhd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:29 group-title="Main" tvg-id="new/nickelodeonastro" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon HD
-http://178.128.21.207:1234/stream/new/nickelodeonastro/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:29 group-title="Main" tvg-id="new/lifetime" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Lifetime
+http://178.128.21.207:1234/stream/new/lifetime/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:30 group-title="Main" tvg-id="new/one" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] ONE
-http://178.128.21.207:1234/stream/new/one/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:30 group-title="Main" tvg-id="new/lovenature" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Love Nature
+http://178.128.21.207:1234/stream/new/lovenature/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:31 group-title="Main" tvg-id="new/onesports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports +
-http://178.128.21.207:1234/stream/new/onesports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:31 group-title="Main" tvg-id="new/mpbl" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] MPBL
+http://178.128.21.207:1234/stream/new/mpbl/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:32 group-title="Main" tvg-id="new/onesportshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports HD
-http://178.128.21.207:1234/stream/new/onesportshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:32 group-title="Main" tvg-id="new/mtvlive" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] MTV Live
+http://178.128.21.207:1234/stream/new/mtvlive/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:33 group-title="Main" tvg-id="new/pbarush" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PBA Rush
-http://178.128.21.207:1234/stream/new/pbarush/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:33 group-title="Main" tvg-id="new/myx" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Myx
+http://178.128.21.207:1234/stream/new/myx/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:34 group-title="Main" tvg-id="new/pbo" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PBO
-http://178.128.21.207:1234/stream/new/pbo/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:34 group-title="Main" tvg-id="new/nbatvphillipines" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] NBA TV Phillipines
+http://178.128.21.207:1234/stream/new/nbatvphillipines/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:35 group-title="Main" tvg-id="new/rockaction-1" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Action
-http://178.128.21.207:1234/stream/new/rockaction-1/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:35 group-title="Main" tvg-id="new/nickjr" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nick Jr
+http://178.128.21.207:1234/stream/new/nickjr/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:36 group-title="Main" tvg-id="new/rockentertainment" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Entertainment
-http://178.128.21.207:1234/stream/new/rockentertainment/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:36 group-title="Main" tvg-id="new/nickelodeon" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon
+http://178.128.21.207:1234/stream/new/nickelodeon/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:37 group-title="Main" tvg-id="new/rptv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] RPTV
-http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:37 group-title="Main" tvg-id="new/nickelodeonastro" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Nickelodeon HD
+http://178.128.21.207:1234/stream/new/nickelodeonastro/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:38 group-title="Main" tvg-id="new/rockaction2" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tagalized Movie Channel
-http://178.128.21.207:1234/stream/new/rockaction2/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:38 group-title="Main" tvg-id="new/one" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] ONE
+http://178.128.21.207:1234/stream/new/one/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:39 group-title="Main" tvg-id="new/tapedge" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Edge
-http://178.128.21.207:1234/stream/new/tapedge/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:39 group-title="Main" tvg-id="new/onesports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports +
+http://178.128.21.207:1234/stream/new/onesports/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:40 group-title="Main" tvg-id="new/tapsports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Sports
-http://178.128.21.207:1234/stream/new/tapsports/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:40 group-title="Main" tvg-id="new/onesportshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] One Sports HD
+http://178.128.21.207:1234/stream/new/onesportshd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:41 group-title="Main" tvg-id="new/teleradyoserbisyo" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Teleradyo Serbisyo
-http://178.128.21.207:1234/stream/new/teleradyoserbisyo/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:41 group-title="Main" tvg-id="new/paris2024ch1" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Paris 2024 CH1
+http://178.128.21.207:1234/stream/new/paris2024ch1/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:42 group-title="Main" tvg-id="new/testnotworkingdontplaythis" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Test (NOT WORKING, DONT PLAY THIS)
-http://178.128.21.207:1234/stream/new/testnotworkingdontplaythis/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:42 group-title="Main" tvg-id="new/paris2024ch2" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Paris 2024 CH2
+http://178.128.21.207:1234/stream/new/paris2024ch2/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:43 group-title="Main" tvg-id="new/thefilipinochanneltfc" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] The Filipino Channel (TFC)
-http://178.128.21.207:1234/stream/new/thefilipinochanneltfc/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:43 group-title="Main" tvg-id="new/paris2024newschannel" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Paris 2024 News Channel
+http://178.128.21.207:1234/stream/new/paris2024newschannel/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:44 group-title="Main" tvg-id="new/tv5" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] TV5
-http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:44 group-title="Main" tvg-id="new/pbarush" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PBA Rush
+http://178.128.21.207:1234/stream/new/pbarush/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:45 group-title="Main" tvg-id="new/tvnmovieshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies HD
-http://178.128.21.207:1234/stream/new/tvnmovieshd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:45 group-title="Main" tvg-id="new/pbo" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PBO
+http://178.128.21.207:1234/stream/new/pbo/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:46 group-title="Main" tvg-id="new/tvnmoviespinoy" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies Pinoy
-http://178.128.21.207:1234/stream/new/tvnmoviespinoy/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:46 group-title="Main" tvg-id="new/ppvpacquiaovsanposunday1pm" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] PPV - PACQUIAO vs. ANPO (Sunday 1PM)
+http://178.128.21.207:1234/stream/new/ppvpacquiaovsanposunday1pm/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:47 group-title="Main" tvg-id="new/tvnpremiumhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Premium HD
-http://178.128.21.207:1234/stream/new/tvnpremiumhd/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:47 group-title="Main" tvg-id="new/rockaction-1" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Action
+http://178.128.21.207:1234/stream/new/rockaction-1/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:48 group-title="Main" tvg-id="new/vevo2010s" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2010s
-http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:48 group-title="Main" tvg-id="new/rockentertainment" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Rock Entertainment
+http://178.128.21.207:1234/stream/new/rockentertainment/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:49 group-title="Main" tvg-id="new/vevo2k" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2K
-http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:49 group-title="Main" tvg-id="new/rptv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] RPTV
+http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:50 group-title="Main" tvg-id="new/vevofeatures" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Features
-http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:50 group-title="Main" tvg-id="new/rockaction2" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tagalized Movie Channel
+http://178.128.21.207:1234/stream/new/rockaction2/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:51 group-title="Main" tvg-id="new/vevohiphop" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Hip-Hop
-http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:51 group-title="Main" tvg-id="new/tapactionflixhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Action Flix HD
+http://178.128.21.207:1234/stream/new/tapactionflixhd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:52 group-title="Main" tvg-id="new/vevorb" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo R&B
-http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:52 group-title="Main" tvg-id="new/tapedge" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Edge
+http://178.128.21.207:1234/stream/new/tapedge/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:53 group-title="Main" tvg-id="new/vivacinema" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Viva Cinema
-http://178.128.21.207:1234/stream/new/vivacinema/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:53 group-title="Main" tvg-id="new/tapmovies" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Movies
+http://178.128.21.207:1234/stream/new/tapmovies/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
-#EXTINF:54 group-title="Main" tvg-id="new/warnertv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Warner TV
-http://178.128.21.207:1234/stream/new/warnertv/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:54 group-title="Main" tvg-id="new/tapsports" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Tap Sports
+http://178.128.21.207:1234/stream/new/tapsports/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:55 group-title="Main" tvg-id="new/techstorm" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] TechStorm
+http://178.128.21.207:1234/stream/new/techstorm/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:56 group-title="Main" tvg-id="new/teleradyoserbisyo" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Teleradyo Serbisyo
+http://178.128.21.207:1234/stream/new/teleradyoserbisyo/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:57 group-title="Main" tvg-id="new/testnotworkingdontplaythis" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Test (NOT WORKING, DONT PLAY THIS)
+http://178.128.21.207:1234/stream/new/testnotworkingdontplaythis/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:58 group-title="Main" tvg-id="new/thefilipinochanneltfc" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] The Filipino Channel (TFC)
+http://178.128.21.207:1234/stream/new/thefilipinochanneltfc/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:59 group-title="Main" tvg-id="new/thrill" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Thrill
+http://178.128.21.207:1234/stream/new/thrill/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:60 group-title="Main" tvg-id="new/tv5" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] TV5
+http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:61 group-title="Main" tvg-id="new/tvnmovieshd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies HD
+http://178.128.21.207:1234/stream/new/tvnmovieshd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:62 group-title="Main" tvg-id="new/tvnmoviespinoy" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Movies Pinoy
+http://178.128.21.207:1234/stream/new/tvnmoviespinoy/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:63 group-title="Main" tvg-id="new/tvnpremiumhd" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] tvN Premium HD
+http://178.128.21.207:1234/stream/new/tvnpremiumhd/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:64 group-title="Main" tvg-id="new/vevo2010s" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2010s
+http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:65 group-title="Main" tvg-id="new/vevo2k" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo 2K
+http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:66 group-title="Main" tvg-id="new/vevofeatures" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Features
+http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:67 group-title="Main" tvg-id="new/vevohiphop" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo Hip-Hop
+http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:68 group-title="Main" tvg-id="new/vevorb" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Vevo R&B
+http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:69 group-title="Main" tvg-id="new/vivacinema" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Viva Cinema
+http://178.128.21.207:1234/stream/new/vivacinema/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:70 group-title="Main" tvg-id="new/warnertv" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv",[Main] Warner TV
+http://178.128.21.207:1234/stream/new/warnertv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:71 group-title="Vision" tvg-id="vision/alltv" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] All TV
+http://178.128.21.207:1234/stream/vision/alltv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:72 group-title="Vision" tvg-id="vision/celestialmoviespinoy" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] Celestial Movies Pinoy
+http://178.128.21.207:1234/stream/vision/celestialmoviespinoy/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:73 group-title="Vision" tvg-id="vision/cinemo" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] Cinemo!
+http://178.128.21.207:1234/stream/vision/cinemo/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:74 group-title="Vision" tvg-id="vision/jeepneytv" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] Jeepney TV
+http://178.128.21.207:1234/stream/vision/jeepneytv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:75 group-title="Vision" tvg-id="vision/myx" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] Myx
+http://178.128.21.207:1234/stream/vision/myx/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:76 group-title="Vision" tvg-id="vision/pbo" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] PBO
+http://178.128.21.207:1234/stream/vision/pbo/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:77 group-title="Vision" tvg-id="vision/test" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] test
+http://178.128.21.207:1234/stream/vision/test/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:78 group-title="Vision" tvg-id="vision/test2" tvg-logo="" provider="Vision" provider-logo="" provider-type="iptv",[Vision] test 2
+http://178.128.21.207:1234/stream/vision/test2/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
