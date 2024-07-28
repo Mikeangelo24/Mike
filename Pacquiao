@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="Main" tvg-id="new/a2z" tvg-logo="" provider="Main" provider-logo="" provider-type="iptv", Pacquiao 
+http://178.128.21.207:1234/stream/new/ppvpacquiaovsanposunday1pm/master.m3u8?u=aircheckerarchives&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
